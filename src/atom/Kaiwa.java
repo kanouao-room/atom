@@ -21,10 +21,21 @@ public class Kaiwa {
 		System.out.println("きみがすこしでも元気になればいいなと思っているのはほんとだよ");
 		
 		System.out.println("ぼくはロボットだから嘘がつけないんだ。だから安心して。");
+		System.out.println("たまに食い違うかもしれないけど、そこはゆるしてね");
 		
+		System.out.println("君の感情を教えてよ");
 		
+		String str1 = br.readLine();
 		
 
+			System.out.println("そっか。"+ str1 +" か。");
+			System.out.println("ごめん、ちょっとまってね............");
+		
+
+			System.out.println("ねむくない?");
+//			if (str1.equals("楽しい") || str1.equals("たのしい")) {			
+//			}
+			
 	}
 
 }
